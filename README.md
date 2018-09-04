@@ -18,4 +18,4 @@ Dal terminale digitare php artisan serve
 Andare su http://localhost:8000/
 Guardare il file word allegato
 
-Il programma Website si connette al DB in MySql, username:root, password vuota, e si collega sulla porta 3306 al DB website
+Il programma Website si connette al DB in MySql, username:root, password vuota, e si collega sulla porta 3306 al DB todolist
